@@ -60,8 +60,7 @@ A }|--|{ B : writes
 B ||--|{ C : is available as
 M ||--o{ L : places
 C ||--o{ L : is borrowed in
-git add schema.puml
-git commit -m "feat: complete ER schema for library management"
+
 ' Crow's Foot notation:
 '   ||   exactly one     (mandatory one)
 '   |{   one or more     (one or more)
