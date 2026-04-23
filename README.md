@@ -65,7 +65,7 @@ git --version
 > **Screenshot 1:** Take a screenshot of your terminal showing all three
 > successful version checks and insert it here.
 >
-> `[insert screenshot]`
+![Screenshot 1](screenshot1.png)
 
 ---
 
