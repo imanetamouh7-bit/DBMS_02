@@ -662,7 +662,7 @@ instead.
 > `schema.svg` from the Release in the same browser window alongside it.
 > Capture both in one screenshot and insert it here.
 >
-> `[insert screenshot]`
+![screenshot 6](screenshot6.png)
 
 ---
 
