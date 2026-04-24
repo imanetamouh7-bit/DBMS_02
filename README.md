@@ -710,7 +710,7 @@ instead.
    > **Screenshot 7:** Take a screenshot of your extended `schema.svg` and the
    > corresponding GitHub Release page, and insert it here.
    >
-   > `[insert screenshot]`
+  ![screenshot 7](screenshot7.png)
 
 ---
 
