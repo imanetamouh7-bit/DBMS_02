@@ -602,7 +602,7 @@ Once the workflow has completed, navigate to **Releases** in the right sidebar.
 > release title, the release notes, and the `schema.svg` download link, and
 > insert it here.
 >
-> `[insert screenshot]`
+![screenshot 5](screenshot5.png)
 
 ### Questions for Task 6
 
